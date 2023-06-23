@@ -46,5 +46,7 @@ public class MapExample {
 
         System.out.println("sampleMap 1= " + sampleMap);
 
+        System.out.println("sampleMap 2= " + sampleMap);
+
     }
 }
