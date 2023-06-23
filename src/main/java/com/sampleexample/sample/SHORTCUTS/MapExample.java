@@ -41,5 +41,11 @@ public class MapExample {
         System.out.println("By main");
 
         System.out.println("added more files for PR");
+        System.out.println("Added line 1");
+
+        System.out.println("sampleMap 1= " + sampleMap);
+
+        System.out.println("sampleMap 2= " + sampleMap);
+
     }
 }
